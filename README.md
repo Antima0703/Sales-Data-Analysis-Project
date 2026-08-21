@@ -101,13 +101,7 @@ The project performs basic sales data analysis to identify:
 * Add profit and revenue metrics
 * Build an interactive dashboard using Streamlit
 
-## Author
 
-**Antima Tiwari**
-
-B.Tech AI/ML Student
-
-Interested in Python, Data Analysis, Machine Learning, and AI.
 
 
 
